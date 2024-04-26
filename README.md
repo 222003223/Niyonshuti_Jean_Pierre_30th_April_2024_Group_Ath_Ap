@@ -36,7 +36,7 @@ Docs: Contains documentation files.
  4. Usage
  4.1 Installation
 
-1. Clone the repository from GitHub: git clone https://github.com/222003223/222003223_30_April_2024_WT_Group_A.git
+1. Clone the repository from GitHub: git clone https://github.com/222003223/Niyonshuti_Jean_Pierre_30th_April_2024_Group_Ath_Ap.git
 2. Navigate to the project directory: `cd football-management-system`
 3. Install dependencies: `npm install`
 
